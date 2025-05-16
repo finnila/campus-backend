@@ -2,6 +2,10 @@
 
 This is the backend server for the Campus Manager application, built with Express.js and Sequelize.
 
+## Group Members
+
+Daryl Hou
+
 ## Setup
 
 1. Install dependencies:
